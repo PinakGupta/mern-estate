@@ -57,7 +57,7 @@ export const google = async (req,res,next) =>{
                     Math.random().toString(36).slice(-4),
                     password: hashedPassword,
                     email:req.body.email,
-                    avatar:req.body.photoURL,
+                    avatar:req.body.photo,
                 }
             );
 
