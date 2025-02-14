@@ -1,6 +1,6 @@
 # EstateEase
 
-EstateEase is a comprehensive real estate platform built with the MERN stack, designed to simplify the process of buying, selling, renting, and leasing properties. Whether you're looking for a household or commercial property, EstateEase provides an intuitive and efficient solution.
+EstateEase is a comprehensive real estate platform built with the MERN stack, designed to simplify the process of buying, selling, renting, and leasing properties. Whether you're looking for a household or commercial property, EstateEase provides you an intuitive and efficient solution.
 
 ## Features
 
