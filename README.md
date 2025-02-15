@@ -50,7 +50,7 @@ Effortlessly add new properties for sale or rent:
 
 ### 📋 Property Listing
 View detailed property information in listings:
-![Listing](assets/Listing.png)
+![Listing](assets/listing.png)
 
 ---
 
